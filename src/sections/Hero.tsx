@@ -142,11 +142,7 @@ const Hero = () => {
                 <div className="absolute inset-4 rounded-full overflow-hidden bg-gradient-to-br from-[#141414] to-[#1F1F1F] border-4 border-white/10">
                   <div className="w-full h-full flex items-center justify-center">
                     <div className="text-center">
-                      <div className="w-20 h-20 mx-auto mb-2 rounded-full bg-gradient-to-br from-[#E50914] to-[#1DB954] flex items-center justify-center">
-                        <span className="text-3xl font-bold text-white">PK</span>
-                      </div>
-                      <p className="text-xs text-white/50">Add Your Photo</p>
-                    </div>
+                     <img src="/DSC.jpg" alt="Peter Kariuki" className="w-full h-full object-cover" />
                   </div>
                 </div>
 
